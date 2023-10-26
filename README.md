@@ -112,11 +112,7 @@
 
 ---
 
-<h1 align="center">Our Beloved Contributors 😍</h1>
 
-<a href="#">
-    <img align="center" src="https://contrib.rocks/image?max=100&repo=pccoe-acm/Hacktoberfest-2023" />
-</a>
 
 <br>
 
