@@ -108,6 +108,7 @@
     <td><a href="https://github.com/Adityalad-25" target="_blank" ><sub><b>Aditya Lad</b></sub></a></td>
     <td align="center"><a href="https://github.com/surajtade"><sub align="bottom"><b>Suraj Tade</b></sub></a></td>
     <td align="center"><a href="https://github.com/Yash-Waghmare"><sub align="bottom"><b>Yash Waghmare</b></sub></a></td>
+    <td align="center"><a href="https://github.com/PrathameshTheurkar"><sub align="bottom"><b>Prathamesh Theurkar</b></sub></a></td>
 </table>
 
 ---
