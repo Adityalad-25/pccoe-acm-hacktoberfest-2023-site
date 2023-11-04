@@ -125,6 +125,6 @@ A big thanks to all our contributors who have made this project better with thei
 
 <h3 align="center">Don't Forget to ⭐ This Repository! 🌟</h3>
 
-### You can follow us on [GitHub](#) ❤
+### You can follow us on [GitHub](https://github.com/Adityalad-25) ❤
 
 
