@@ -83,13 +83,5 @@ getRepoInfo('pccoe-acm-hacktoberfest-2023', 'GDSC_ecommerce_istop_dummywebsite',
 getRepoInfo('pccoe-acm-hacktoberfest-2023', 'Sorting_Visualizer', "sorty");
 
 
-
-
-
-
-
-
-
-
 // Call getOrgInfo to get information about the organization
 getOrgInfo('pccoe-acm-hacktoberfest-2023');
